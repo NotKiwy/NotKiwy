@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Notkiwy </h1>
-<h3 align="center">Full-Stack Developer & Web Designer from Russia, Moscow</h3>
+<h3 align="center">Full-Stack Developer & Web-Designer from Russia, Moscow</h3>
 
 <p align="center">
   <a href="https://chadwy.xyz">
-    <img src="https://img.shields.io/badge/🎨-Portfolio-FF713E?style=for-the-badge&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio-FF713E?style=for-the-badge&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://t.me/chadwy">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
@@ -19,7 +19,7 @@
 | *Database* | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
 | *Tools* | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 ```Python
 class Developer:
@@ -35,7 +35,7 @@ class Developer:
 me = Developer()
 ```
 
-### 🤝 Let's Collaborate!
+### Let's Collaborate!
 
 - 💼 *Portfolio:* [chadwy.xyz](https://chadwy.vercel.app)
 - 📧 *Email:* [notkiwy@yahoo.com](mailto:notkiwy@yahoo.com)
