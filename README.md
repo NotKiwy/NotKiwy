@@ -2,8 +2,6 @@
   <img src="cat.gif" width="400" />
 </div>
 
-<br>
-
 ### hey, im notkiwy
 
 love open source <3<br>
